@@ -5,23 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milayo" alt="milayo" /></a> </p>
 
-- 🔭 I’m currently working on **.**
+- 🔭 I’m currently working on **improving my skills and becoming a better developer.**
 
-- 🌱 I’m currently learning **.**
+- 🌱 I’m currently exploring **fields in blockchain technology.**
 
 - 👯 I’m looking to collaborate on **any solidity or react projects.**
 
-- 🤝 I’m looking for help with [.](.)
+- 👨‍💻 All of my projects are available at [https://tomilayo-portfolio-milayo.vercel.app/ ](.)
 
-- 👨‍💻 All of my projects are available at [.](.)
-
-- 📝 I regularly write articles on [.](.)
+- 📝 I regularly write articles on [Upwork as a freelance content writer.](.)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **moladeijarotimi@gmail.com**
-
-- 📄 Know about my experiences [.](.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
