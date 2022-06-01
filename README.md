@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tomilayo-portfolio-milayo.vercel.app/ ](.)
 
-- 📝 I regularly write articles on [Upwork as a freelance content writer.](.)
+- 📝 I regularly write articles on Upwork as a freelance content writer. 
 
 - 📫 How to reach me **moladeijarotimi@gmail.com**
 
