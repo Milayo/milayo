@@ -1,19 +1,8 @@
 <h1 align="center">Hi 👋, I'm TOMILAYO!!</h1>
-<h3 align="center">I build beautiful websites with React and write smart contracts.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=milayo&label=Profile%20views&color=0e75b6&style=flat" alt="milayo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milayo" alt="milayo" /></a> </p> -->
-
-- 🌱 I’m currently exploring **fields in blockchain technology.**
-
-- 👯 I’m looking to collaborate on **any Solidity or React projects.**
-
-- 👨‍💻 All of my projects are available at [https://tomilayo-portfolio-milayo.vercel.app/ ](.)
-
-- 📝 I regularly write articles on Upwork as a freelance content writer. 
-
-- 📫 How to reach me **moladeijarotimi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
