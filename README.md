@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Mitoraji-tee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mitoraji-tee" height="30" width="40" /></a>
+<a href="https://twitter.com/Mitoraji_tee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mitoraji-tee" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ijarotimi-tomilayo-219530154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ijarotimi tomilayo" height="30" width="40" /></a>
 <a href="https://fb.com/ijarotimi tomilayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ijarotimi tomilayo" height="30" width="40" /></a>
 <a href="https://instagram.com/t0mee_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@t0mee_" height="30" width="40" /></a>
